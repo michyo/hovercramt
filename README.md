@@ -147,7 +147,7 @@ Recipe
 Know Issues
 -----------
 
-'Bouncing' into thin air: This can simply be the result of server lag, even in singleplayer mode, the client and server can get out of sync.
+'Bouncing' into thin air: This can simply be the result of server lag, even in singleplayer mode, the client and server can get out of sync.  
 Solution, be patient, allow the environment to fully load before preceding.
 
 Version History
